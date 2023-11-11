@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/NM1HBKbR/Twitter-cover.png" alt="BMI Calculator Banner">
+<img src="https://i.postimg.cc/prVfHF7C/Purple-Modern-Twitter-Header.png" alt="">
 <h1 align="center">Hi 👋, I'm Rohan De Silva</h1>
 <h3 align="center">A passionate iOS Developer from Sri Lanka</h3>
 

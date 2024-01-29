@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Swift, SwiftUI, UIkit**
 
-- 📝 I regularly write articles on [www.swiftwithrohan.com](www.swiftwithrohan.com)
+- 📝 I regularly write articles on www.swiftwithrohan.com
 
 - 💬 Ask me about **iOS Development, Swift, SwiftUI, App Store Optimization**
 
